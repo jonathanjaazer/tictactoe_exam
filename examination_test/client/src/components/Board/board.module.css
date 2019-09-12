@@ -1,0 +1,13 @@
+*{box-sizing: border-box}
+
+.board{
+	display:flex;
+	flex-flow: row wrap;
+	justify-content: flex-start;
+	width:300px;
+	margin: auto;
+}
+.cell{
+	flex-basis: 33.33%;
+	padding:15px;
+}

@@ -1,0 +1,13 @@
+.container{
+	flex-basis:50%;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: flex-start;
+	padding:5px;
+}
+.items{
+	flex-basis: 100%;
+}
+.shift{
+	background-color: #eee;
+}

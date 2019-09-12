@@ -1,0 +1,22 @@
+.container{
+	display: flex;
+	flex-flow: row;
+	justify-content: flex-start;
+	width:300px;
+	margin:auto;
+}
+.link{
+	flex-basis:50%;
+	text-align: center;
+}
+.link a{
+	padding:5px;
+	cursor: pointer;
+	text-decoration: none;
+}
+.link a:hover{
+	color:orange;
+}
+.active{
+	color:orange;
+}

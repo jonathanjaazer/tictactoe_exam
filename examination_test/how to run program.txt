@@ -1,0 +1,9 @@
+Mongodb access (mongodb://127.0.0.1:27017/dbTictactoe) with node Folder:(backend)
+	---> Dependencies Installation: navigate to backend directory and from cmd, run >npm install
+	---> Run: from cmd, run >node server
+
+React.js Folder: (client)
+	---> Dependencies Installation: navigate to client directory and from cmd, run >npm install
+	---> Run: from cmd, run >npm start
+
+Mongodb backup Folder: (mongodb)

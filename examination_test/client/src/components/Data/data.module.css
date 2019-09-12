@@ -1,0 +1,20 @@
+.container{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: flex-start;
+	width:500px;
+	margin:auto;
+}
+
+.row{
+	display:flex;
+	flex-flow: row;
+	justify-content: flex-start;
+	flex-basis: 100%;
+	border-bottom: 1px solid #eee;
+	padding:5px;
+}
+.item{
+	flex-basis: 50%;
+	text-align:center;
+}
